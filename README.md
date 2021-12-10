@@ -5,7 +5,7 @@
 </p>
   <p align="center">
 <a href="">
-      <img src="https://media.discordapp.net/attachments/754562222251835423/918825663044145212/27020Astolfo2028Saber29201.png?width=383&height=542"/>
+      <img src="https://cdn.discordapp.com/attachments/672114005111734289/918876910577156126/astolfo21.jpg"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/Leet">
     </a>
@@ -16,7 +16,7 @@
 
 ### About Meh
 
-25 year old GAMERS From Australia
+25 year old GAMER From Australia
 
 **Hentai > All**
 
