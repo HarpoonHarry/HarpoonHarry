@@ -25,6 +25,3 @@
 
 C++, C, JavaScript, Lua, Python, C#
 
-### Discord
-
-`Astolfo#8001`
