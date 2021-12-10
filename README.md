@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://media.discordapp.net/attachments/754562222251835423/918825917118287912/Y0tpIhum_400x400.png" align="center" alt="Kwitty" />
+ <img width="100px" src="https://cdn.discordapp.com/attachments/672114005111734289/918876344727785574/kawaiiiFOL.jpg" align="center" alt="Kwitty" />
  <h2 align="center">Mihono</h2>
  <p align="center"></p>
 </p>
