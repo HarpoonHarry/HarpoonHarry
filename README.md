@@ -5,7 +5,7 @@
 </p>
   <p align="center">
 <a href="">
-      <img src="https://cdn.discordapp.com/attachments/672114005111734289/918876910577156126/astolfo21.jpg"/>
+      <img src="https://media.discordapp.net/attachments/754562222251835423/918825663044145212/27020Astolfo2028Saber29201.png?width=383&height=542"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/Leet">
     </a>
