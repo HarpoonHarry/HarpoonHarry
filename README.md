@@ -5,10 +5,10 @@
 </p>
   <p align="center">
 <a href="">
-      <img src="https://img.shields.io/badge/Pro-Coder-857aff"/>
+      <img src="https://media.discordapp.net/attachments/754562222251835423/918825663044145212/27020Astolfo2028Saber29201.png?width=383&height=542"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/Leet">
-      <img src="https://img.shields.io/badge/C%2B%2B-God-ff4545"/>
+      <img src="https://media.discordapp.net/attachments/754562222251835423/918825815179948062/279347220-256-k544945.png"/>
     </a>
     <br />
  
