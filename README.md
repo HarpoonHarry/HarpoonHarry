@@ -23,5 +23,5 @@
 
 ### Languages
 
-C++, JavaScript, Lua, Python, C#
+C++, C#, JavaScript, Lua, Python
 
