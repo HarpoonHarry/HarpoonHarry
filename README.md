@@ -19,7 +19,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://discord.com/users/735521027701866537" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
+<a href="https://discord.com/users/687197354021093377" target="blank"><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="mxAqDMDmqE" height="30" width="40" /></a>
 </p>
 
 
