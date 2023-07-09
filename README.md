@@ -12,10 +12,6 @@
 
 - 🎮 I regularly play games with friends
 
-- 💬 Ask me about **C++**
-
-- ⛩️ Fun fact **Im Into Anime**
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
