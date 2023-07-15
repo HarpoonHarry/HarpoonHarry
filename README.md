@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on **Reverse Engineering**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **x86 Assembly**
 
 - 👯 I’m really **friendly**
-
-- 🤝 I’m looking to help other people with **Coding**
 
 - 🎮 I regularly play games with friends
 
